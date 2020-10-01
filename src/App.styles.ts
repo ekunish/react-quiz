@@ -30,18 +30,18 @@ export const Wrapper = styled.div`
   align-items: center;
 
   > p {
-    color: #fff;
+    color: #000;
   }
 
   .score {
-    color: #fff;
+    color: #000;
     font-size: 2rem;
     margin: 0;
   }
 
   h1 {
-    font-family: Fascinate Inline, Haettenschweiler, "Arial Narrow Bold",
-      sans-serif;
+    font-family: "Catamaran", Fascinate Inline, Haettenschweiler,
+      "Arial Narrow Bold", sans-serif;
     background-image: linear-gradient(180deg, #fff, #87f1ff);
     background-size: 100%;
     background-clip: text;
